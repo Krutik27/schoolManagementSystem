@@ -1,0 +1,2 @@
+# schoolManagementSystem
+This is my first repository
